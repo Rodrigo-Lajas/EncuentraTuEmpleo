@@ -30,7 +30,7 @@ import {
 const data = {
   user: {
     name: "Encuentra tu empleo",
-    email: "encuetratueempleo.com.ar",
+    email: "encuetratuempleo.com.ar",
     avatar: "/avatars/shadcn.jpg",
   },
   teams: [
